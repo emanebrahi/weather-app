@@ -1,0 +1,11 @@
+.weather-title{
+    color: rgb(56, 50, 59);
+}
+input{
+    border: 1px solid #c85a5a !important;
+    background-color: rgb(253, 253, 253) !important;
+}
+input:focus{
+    box-shadow: none !important;
+    border: 1px solid #c85a5a !important;
+}
